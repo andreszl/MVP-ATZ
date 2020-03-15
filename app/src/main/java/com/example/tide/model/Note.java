@@ -1,4 +1,4 @@
-package com.example.tide;
+package com.example.tide.model;
 
 
 import com.google.gson.annotations.Expose;

@@ -1,5 +1,7 @@
-package com.example.tide;
+package com.example.tide.api;
 
+
+import com.example.tide.model.Note;
 
 import retrofit2.Call;
 import retrofit2.http.Field;

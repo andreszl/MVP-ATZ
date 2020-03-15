@@ -1,4 +1,4 @@
-package com.example.tide;
+package com.example.tide.api;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
